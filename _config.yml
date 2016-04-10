@@ -1,0 +1,28 @@
+name: Blockhouse 2
+favicon: null
+layout_spectrum: 0.08699
+typography_spectrum: 0.7605948124546558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f4ede7'
+    - '#a3a3c1'
+    - '#394e62'
+    - '#7688b5'
+    - '#0e1412'
+  brandStrength: 0.6195809552446008
+  lightness: 0.01796689466573298
+  saturation: 0.9819607411045581
+  rhythmicContrast: 0.5427534624468535
+purpose: []
